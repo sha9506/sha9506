@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabnam Begum</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 ###
 
@@ -17,9 +17,9 @@
 
 <p align="left"> <a href="https://twitter.com/afzxnz" target="blank"><img src="https://img.shields.io/twitter/follow/afzxnz?logo=twitter&style=for-the-badge" alt="afzxnz" /></a> </p>
 
-- 🔭 I’m currently working on **My BLog**
+- 🔭 I’m currently working on **My decentralised Freelancing website**
 
-- 🌱 I’m currently learning **ReactJS, JavaScript, Data Structure**
+- 🌱 I’m currently learning **Django, JavaScript, Data Structure**
 
 - 🤝 I’m looking for help with **Data Structure and ALgorithm**
 
